@@ -1,3 +1,3 @@
 # Známkovač
 
-<p>Vezme data z několika disciplín, vyhodnotí je a přiřadí body, které budou následně vyhodnoceny ve známku</p>
+<p>Z daného arraye určí, kolik lidí by prošlo s jakou známkou</p>
